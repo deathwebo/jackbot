@@ -1,0 +1,6 @@
+slack-bolt==1.14.0; python_version >= "3.6" \
+    --hash=sha256:86acccfb668ae57d553126cfb46ab694893e71aa7d3f78af597464d4148b4fcb \
+    --hash=sha256:2b3e41249616925325e3788b224440d8a70757885fd364d59eacc71db798a7ee
+slack-sdk==3.17.0; python_full_version >= "3.6.0" and python_version >= "3.6" \
+    --hash=sha256:0816efc43d1d2db8286e8dbcbb2e86fd0f71c206c01c521c2cb054ecb40f9ced \
+    --hash=sha256:860cd0e50c454b955f14321c8c5486a47cc1e0e84116acdb009107f836752feb
